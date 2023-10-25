@@ -1,0 +1,109 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "SAMSUNG Galaxy S22 5G",
+      "brand": "Samsung",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/h/c/-original-imagth5xwrg4gfyp.jpeg?q=70",
+      "category": "Mobile",
+      "price": "22000",
+      "ratings": 4.6,
+      "discount": 10,
+      "strikedPrice": "50000"
+    },
+    {
+      "id": 2,
+      "title": "Realme 11 Pro 5G",
+      "brand": "Realme",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/8/d/-original-imagqadpnygfnn2v.jpeg?q=70",
+      "category": "Mobile",
+      "price": "24999",
+      "ratings": 4.2,
+      "discount": 20,
+      "strikedPrice": "50000"
+    },
+    {
+      "id": 3,
+      "title": "MOTOROLA Edge 40",
+      "brand": "Motorola",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/2/m/o/edge-40-pay40030in-motorola-original-imagpqzchzhg6fex.jpeg?q=70",
+      "category": "Mobile",
+      "price": "24999",
+      "ratings": 4.3,
+      "discount": 22,
+      "strikedPrice": "50000"
+    },
+    {
+      "id": 4,
+      "title": "Lifestyle Black Dial Silicon Strap Electronic Digital Watch",
+      "brand": "Samsung",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l15bxjk0/watch/y/9/t/1-8yviq-i-square-black-t50-led-flozio-boys-original-imagcs4p2zwchvud.jpeg?q=70",
+      "category": "Watch",
+      "price": "22000",
+      "ratings": 4.6,
+      "discount": 10,
+      "strikedPrice": "50000"
+    },
+    {
+      "id": 5,
+      "title": "Minimalists Analog Watch - For Men 38024PP25",
+      "brand": "Timex",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/b/u/m/8yviq-i-square-white-t50-led-flozio-boys-original-imagsx4vhv3es4gj.jpeg?q=70",
+      "category": "Watch",
+      "price": "2499",
+      "ratings": 4.2,
+      "discount": 20
+    },
+    {
+      "id": 6,
+      "title": "LG Wide 360",
+      "brand": "LG",
+      "image": "https://www.reliancedigital.in/medias/TCL-55C645-QLED-Smart-TV-493841840-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3ODA5MTN8aW1hZ2UvcG5nfGltYWdlcy9oOTMvaDdlLzEwMDAzNTIyMDI3NTUwLnBuZ3w1ZGViNDQwMDVjNTU3ZTYzZDZhMGI1ZDVmNjhlNTkxZTM3OTI2MDJkNTgwZTJmMjhmNGU5ZGNmYmYxZjMwOTRm",
+      "category": "Tv",
+      "price": "30199",
+      "ratings": 4.3,
+      "discount": 22
+    },
+    {
+      "id": 7,
+      "title": "iFFALCON by TCL 79.97 cm",
+      "brand": "Falcon",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIXESh3WHTQ6khnLNVOkYUNmZLPHA04vwFzKowNbadqCiUHwM4303c3RJxA8d7ZrguhzUsIqqN9hyolOKfuiD-jBPn2rPxy-MrzfeDr4QxrtrbS_ZoMsfJfA",
+      "category": "Tv",
+      "price": "30199",
+      "ratings": 4.3,
+      "discount": 22
+    }
+  ],
+  "Cart": [
+    {
+      "id": 2,
+      "title": "Realme 11 Pro 5G",
+      "brand": "Realme",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/8/d/-original-imagqadpnygfnn2v.jpeg?q=70",
+      "category": "Mobile",
+      "price": "24999",
+      "ratings": 4.2,
+      "discount": 20,
+      "strikedPrice": "50000"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "Shailesh Sampat",
+      "email": "shailesh.webdevelopment@gmail.com",
+      "password": "sss",
+      "id": 1
+    },
+    {
+      "name": "Ankit Gupta",
+      "email": "ss@gmail.com",
+      "password": "www",
+      "id": 2
+    }
+  ],
+  "Login": {
+    "email": "ss@gmail.com",
+    "password": "www"
+  }
+}
